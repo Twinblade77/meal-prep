@@ -8,7 +8,7 @@ The website consist of a main index page that links to individual recipe pages. 
 
 ## Skills Demonstrated:
 Knowledge of basic HTML structure and organization.
-Used elements like <a>, <img>, <ul>, <ol>, <li>, <h1>–<h6>, and <p>.
+Used elements like `<a>`, `<img>`, `<ul>`, `<ol>`, `<li>`, `<h1>`–`<h6>`, and `<p>`.
 Practiced creating internal links between multiple HTML files.
 Improved my understanding of semantic HTML and document structure.
 Gained experience organizing files and folders in a basic web project.
